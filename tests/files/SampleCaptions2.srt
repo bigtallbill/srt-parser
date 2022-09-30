@@ -1,0 +1,11 @@
+1
+0:00:05.000 --> 0:00:06.000
+Hey, what's up man?
+
+2
+0:00:07.000 --> 0:00:08.000
+Well, good.
+
+3
+0:00:10.000 --> 0:00:13.000
+So we had like 10 minutes, I thought I'm going to quickly steal 10 minutes of your time.

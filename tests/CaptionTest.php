@@ -52,5 +52,4 @@ class CaptionTest extends TestCase
         ];
         $this->assertEquals($captionArray, $expectedArray);
     }
-
 }
