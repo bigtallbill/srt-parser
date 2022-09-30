@@ -35,7 +35,7 @@ class Time
 
     private static function parseTime($time)
     {
-        $time = explode(',', $time, 2);
+        $time = preg_split("/[,.]/", $time, 2);
         $milliseconds = $time[1];
         $splitTime = explode(':', $time[0], 3);
 
